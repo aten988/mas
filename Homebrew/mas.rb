@@ -3,7 +3,7 @@ class Mas < Formula
   homepage "https://github.com/mas-cli/mas"
   url "https://github.com/mas-cli/mas.git",
       tag:      "v1.8.2",
-      revision: "c88a98892e52a0ad8527a532aaa5dd1a2dd19635"
+      revision: "2f2a43b425498f3cee50974116b8c9d27adbb7cb"
   license "MIT"
   head "https://github.com/mas-cli/mas.git"
 
